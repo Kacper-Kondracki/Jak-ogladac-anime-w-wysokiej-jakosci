@@ -72,7 +72,7 @@ oraz [Lista Anilist](https://anilist.co).
 
 Oba serwisy zawierają doskonałą bazę anime, w łatwy sposób można wyszukać dowolne anime oraż znależć odpowiednie dla siebie według gatunków i tagów.
 
-Jeżeli posiadasz listę anime na shinden, zalecam przenieś ją na dowolny z tych serwisów. Napisałem program który ułatwia ten proces tworząc gotowy plikz listą anime którą można zaimportować do tych serwisów [ShindenToAnilist](https://github.com/Kacper-Kondracki/ShindenToAnilist)
+Jeżeli posiadasz listę anime na shinden, zalecam przenieś ją na dowolny z tych serwisów. Napisałem program który ułatwia ten proces tworząc gotowy plik z listą anime którą można zaimportować do tych serwisów [ShindenToAnilist](https://github.com/Kacper-Kondracki/ShindenToAnilist)
 
 # Pomocnicze oprogramowanie
 
