@@ -54,6 +54,7 @@ Zalecanym odtwarzaczem jest [mpv](https://mpv.io/) - jest to prosty, ale bardzo 
 ![image](https://user-images.githubusercontent.com/43544435/161136682-85823805-48fc-49f9-b544-b30c242718a0.png)
 
 Dostępna jest konfiguracja specjalnie stworzona do oglądania anime: https://github.com/Tsubajashi/mpv-settings
+Jest także łatwiejsza wersja tego odtwarzacza z dodanym dodatkowym interfejsem użytkownika [mpv.net](https://mpv-net.github.io/mpv.net-web-site/)
 
 Jeżeli mpv jest dla ciebie za trudnym w obsłudze odtwarzaczem, można skorzystać z [VLC](https://www.videolan.org/vlc/) który jest bardziej rozbudowany lecz posiada niższej jakości dekoder.
 
