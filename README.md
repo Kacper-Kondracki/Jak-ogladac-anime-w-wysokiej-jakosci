@@ -47,6 +47,7 @@ BD oznacza wydanie blu-ray, a HEVC to kodek cechujący się wspaniałą kompresj
 ![image](https://user-images.githubusercontent.com/43544435/161138947-6e233617-80a5-4e7f-81d8-ce8966bcf680.png)
 
 Wybór torrenta należy rozważyć poprzez liczbę seedów oraz komentarze.
+Czasami zdarza się, że użytkownicy zauważają problemy z synchronizacją napisów i wrzucają patche do nich, zazwyczaj to są małe pojedyńcze poprawki ale warto sprawdzać.
 
 W przypadku gdy seria nie doczekała się jeszcze wydania blu-ray, trzeba skorzystać z web-ripów. Web-ripy dostępne są zazwyczaj w kodeku x264, który zajmuje sporo miejsca na dysku, najpopularniejszą grupą web-ripującą jest [Subsplease](https://subsplease.org/). Jeżeli wielkość pliku jest zbyt duża, niektóre grupy reenkodują odcinki w HEVC.
 
