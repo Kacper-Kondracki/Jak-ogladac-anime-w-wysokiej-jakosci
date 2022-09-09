@@ -16,7 +16,7 @@ Zaletą takiego procesu jest to, że napisy będą zawsze i wszędzie działać 
 
 # Jak oglądać odcinki anime w wysokiej jakości?
 
-Niestety będzie trzeba wtedy zrezygnować z polskich napisów. Chociaż niektóre grupy fansubowe wrzucają swoje napisy na http://animesub.info/, napotkałem się na dużą ilość failsubbingu - czyli niepoprawnego, nie mającego sensu tłumaczenia, głupie wstawki tłumaczów oraz niepasujące linie z nawiązaniami do polskiej kultury. Kolejnym problemem jest to, że zazwyczaj te napisy mają synchronizacje do tylko jednej wersji odcinka, trzeba pobrać odpowiedni odcinek by napisy pokrywały się scieżką dzwiękową.
+Niestety będzie trzeba wtedy zrezygnować z polskich napisów. Chociaż niektóre grupy fansubowe wrzucają swoje napisy na http://animesub.info/, napotkałem się na dużą ilość failsubbingu - czyli niepoprawnego, nie mającego sensu tłumaczenia, głupie wstawki tłumaczów oraz niepasujące linie z nawiązaniami do polskiej kultury. Kolejnym problemem jest to, że zazwyczaj te napisy mają synchronizacje do tylko jednej wersji odcinka, trzeba pobrać odpowiedni odcinek by napisy pokrywały się scieżką dzwiękową. W dodatku grupy fansubowskie prawie nigdy nie reupoadują wersji BD (blu-ray) gdy wyjdzie - angielskie grupy bardzo chętnie reuploadują i w dodatku jeżeli jest błąd w napisach, wychodzą wersje poprawione V2, V3.
 
 ![image](https://user-images.githubusercontent.com/43544435/162133861-08539f9f-e07f-43c0-a0fb-6aaf4057dafa.png)
 > Przykład failsubbingu
